@@ -1,0 +1,19 @@
+.header {
+    background-image: linear-gradient(rgba(41, 173, 14, 0.281),rgba(23, 28, 53, 0.4)), url(https://images.pexels.com/photos/3629227/pexels-photo-3629227.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    color: white;
+}
+
+.text-white {
+    text-decoration: none;
+}
+
+@media screen and (min-width:992px){
+    .header-text {
+        margin-top: 150px !important;
+    }
+
+}
+

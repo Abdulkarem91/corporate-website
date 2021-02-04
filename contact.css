@@ -1,0 +1,15 @@
+.jumbotron {
+    background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url(./images/meetingroom.jpeg);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    color: white;
+}
+
+.jumbotron p,h1 {
+    text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+}
+
+.text-white {
+    text-decoration: none;
+}
